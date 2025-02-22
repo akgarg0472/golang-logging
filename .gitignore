@@ -1,0 +1,9 @@
+# Binaries
+/golang-logging
+
+# Dependency directories (if using Go modules, these aren’t needed)
+vendor/
+
+# OS-specific files
+.DS_Store
+
